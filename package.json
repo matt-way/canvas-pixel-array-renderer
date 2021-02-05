@@ -1,6 +1,7 @@
 {
   "name": "canvas-pixel-renderer",
   "description": "Renders a set of 2D array values to pixels on a canvas",
+  "version": "1.0.3",
   "keywords": [
     "pq3t48npq034aa",
     "canvas",
